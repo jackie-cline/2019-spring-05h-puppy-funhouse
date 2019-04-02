@@ -27,3 +27,27 @@ button{
     font-size: 30px;
     font-weight: bolder;
 }
+
+body{
+    background-color:white;
+}
+
+#puppy{
+    border:5px solid;
+    border-color:none;
+    background-image:url(http://www.placedoggo.com/400/300);
+    background-position:center;
+    width:400px;
+    height:300px;
+}
+#puppy:hover {
+    background-image:url(./img/zoey.jpg);
+    background-position:center;
+    width:400px;
+    height:300px;
+}
+#zoey {
+    background-image:url(https://i.imgur.com/q46L4QH.jpg%27);
+    width:790px;
+    height:403px;
+}
