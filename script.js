@@ -77,7 +77,7 @@ $(document).ready(function(){
  	************/
 	$('#puppy').hover(
 	    function () { //mouse enter function
-	        $('#puppy').prop('src','./img/zoey.JPG');
+	        $('#puppy').prop('src','https://i.imgur.com/IG7qmpN.jpg');
 	    }, 
 	    function () { //mouse leave function
 	        $('#puppy').prop('src','http://www.placedoggo.com/400/300'); 
